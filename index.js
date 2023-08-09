@@ -1,0 +1,1 @@
+alert('Hello welcome to this page  all the images are from internet')
